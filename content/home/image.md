@@ -1,7 +1,7 @@
 ---
 advanced:
   css_class: fullscreen
-widget: hero
+widget: blank
 widget_id: homepage 1st fig
 headless: true
 weight: 30
