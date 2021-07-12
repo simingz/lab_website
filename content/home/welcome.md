@@ -2,7 +2,7 @@
 advanced:
   ? css_style
   ? css_class
-widget: hero
+widget: pages
 widget_id: home page text
 headless: true
 weight: 10
