@@ -2,7 +2,7 @@
 advanced:
   css_class: fullscreen
 widget: blank
-widget_id: homepage 1st fig
+widget_id: homepage bottom figure
 headless: true
 weight: 30
 title: null
