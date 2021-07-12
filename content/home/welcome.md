@@ -5,7 +5,7 @@ advanced:
 widget: pages
 widget_id: home page text
 headless: true
-weight: 10
+weight: 0
 title: Siming Zhao Research Group
 subtitle: ""
 active: true
