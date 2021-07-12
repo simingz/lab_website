@@ -12,7 +12,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: icon.png
+    image: ""
 hero_media: welcome.jpg
 ---
 
