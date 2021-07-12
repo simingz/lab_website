@@ -10,6 +10,8 @@ title: Siming Zhao Research Group
 subtitle: ""
 design:
   columns: "1"
+  background:
+    image: icon.png
 hero_media: welcome.jpg
 ---
 
