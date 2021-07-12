@@ -8,6 +8,7 @@ headless: true
 weight: 10
 title: Siming Zhao Research Group
 subtitle: ""
+active: true
 design:
   columns: "1"
   background:
