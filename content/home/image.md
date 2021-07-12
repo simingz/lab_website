@@ -1,31 +1,26 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+advanced:
+  css_class: fullscreen
 widget: blank
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: homepage 1st fig
 headless: true
-
-# Order that this section appears on the page.
 weight: 30
-
-title:
-subtitle:
-
+title: null
+subtitle: From doi:10.1126/science.aan7017
+active: true
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: genes.jpeg
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
-advanced:
-  css_class: fullscreen
+    padding:
+      - 20px
+      - "0"
+      - 20px
+      - "0"
 ---
