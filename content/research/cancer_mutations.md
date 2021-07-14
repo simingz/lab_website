@@ -13,4 +13,4 @@ design:
 
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 
-![Example image](genes.jpeg)
+![Example image](genes.jpg)
