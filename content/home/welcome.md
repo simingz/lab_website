@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Zhao Research Group focuses on 
+The Zhao Research Group focuses on deciphering the genetic etiology of human diseases, in particular, cancer. We develop computational methods to analyze a variety of genomic data, such as genotype, transcriptomic and epigenomic data, and translate such data into knowlege of human diseases.
