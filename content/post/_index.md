@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-news 1 
+* [July 1st, 2020] Zhao Lab opens.
