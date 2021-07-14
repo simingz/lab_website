@@ -6,15 +6,15 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "Zhao Research Group"
 subtitle: ""
 hero_media: genes.jpeg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 advanced:
   css_style:
   css_class:
 ---
 
-The Zhao Research Group focuses on deciphering the genetic etiology of human diseases, in particular, cancer. We develop computational methods to analyze a variety of genomic data, such as genotype, transcriptomic and epigenomic data, and translate such data into knowlege of human diseases.
+A genomic data science lab. We develop and use powerful computational and statistical methods to learn the genetics of human diseases, in particular cancer, from large-scale genomic data.
