@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-* [July 1st, 2020] Zhao Lab opens.
+* [July 1st, 2020] **Zhao Lab opens**.
