@@ -16,7 +16,7 @@ asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 
-<img align="right" width="250" height="125" caption="temp" src="cancer_selection.jpg">
+<img align="right" width="450" height="400" caption="temp" src="functional_genomics.jpg">
 
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
