@@ -16,4 +16,9 @@ asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 
-<img align="right" width="100" height="100" caption="temp" src="cancer_selection.jpg">
+<img align="right" width="970" height="500" caption="temp" src="cancer_selection.jpg">
+
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
