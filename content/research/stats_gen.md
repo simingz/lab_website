@@ -3,9 +3,9 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Functional genomics of human diseases
+title: Statistical methods for genome wide association analysis
 subtitle:
-weight: 20  # section position on page
+weight: 30  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -16,7 +16,7 @@ asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 
-<img align="right" width="450" height="400" caption="temp" src="functional_genomics.png">
+<img align="right" width="300" height="200" caption="temp" src= causal-diagram.jpg">
 
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
