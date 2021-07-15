@@ -15,4 +15,5 @@ asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
-![Example image](genes.jpg)
+
+{{<img align="left" width="100" height="100" caption="temp" src="http://www.fillmurray.com/100/100">}}
