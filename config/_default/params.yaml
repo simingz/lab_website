@@ -48,7 +48,7 @@ main_menu:
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
@@ -79,7 +79,7 @@ copyright_license:
 plugins_js: []
 avatar:
   gravatar: false
-  shape: circle
+  shape: square
 publications:
   date_format: January 2006
   citation_style: apa
