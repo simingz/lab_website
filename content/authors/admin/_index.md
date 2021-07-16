@@ -6,20 +6,20 @@ title: Siming Zhao
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Dartmouth College
+  url: "https://geiselmed.dartmouth.edu/bmds/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include cancer genomics, statistical genetics
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cancer genomics
+- Gene regulation
+- Statistical genetics
+- Bioinformatics
 
 education:
   courses:
