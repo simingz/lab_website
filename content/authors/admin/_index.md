@@ -6,8 +6,7 @@ title: Siming Zhao
 superuser: true
 
 # Role/position
-role: Assistant professor of biomedical data science and
-Norris Cotton Cancer Center
+role: Assistant professor of biomedical data science and Norris Cotton Cancer Center
 
 # Organizations/Affiliations
 organizations:
