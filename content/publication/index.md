@@ -9,7 +9,7 @@ header:
 
 ## <span style="color:green"> *2020* </span>
 
-Zhang S\*, Zhang H\*, Zhou Y\*, Qiao M\*, **Zhao S**\* *et al*. [Allele-specific open chromatin in human iPSC neurons elucidates functional disease variants.]()(https://science.sciencemag.org/content/369/6503/561.abstract) *Science* 2020; 369: 561–565. \* co-first author
+Zhang S\*, Zhang H\*, Zhou Y\*, Qiao M\*, **Zhao S**\* *et al*. [Allele-specific open chromatin in human iPSC neurons elucidates functional disease variants.](https://science.sciencemag.org/content/369/6503/561.abstract) *Science* 2020; 369: 561–565. \* co-first author
 
 ## <span style="color:green"> *2019* </span>
 
