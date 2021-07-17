@@ -25,3 +25,30 @@ asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
 asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+
+## Functional genomics of human diseases
+
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+
+<img align="right" width="520" height="430" caption="temp" src="functional_genomics.png">
+
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+
+## Statistical methods for genome wide association analysis
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+
+<img align="right" width="350" height="220" caption="temp" src= "causal-diagram.jpg">
+
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
