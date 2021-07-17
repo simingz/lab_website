@@ -12,7 +12,7 @@ design:
 ---
 
 ## Research overview
-Our group focuses on studying the genetic etiology of human diseases, in particular, cancer.  We develop computational methods and tools to analyze large-scale genomic datasets, aiming to translate data into biological insights. Specific areas of interest include modeling of mutation selection in cancer,  integration of multiple types of genomic datasets for disease gene discovery, genotype-phenotype association analysis, *etc*. 
+Our group focuses on studying the genetic etiology of human diseases, in particular, cancer.  We develop computational methods and tools to analyze large-scale genomic datasets, aiming to translate data into biological insights. Specific areas of interest include modeling of mutation selection in cancer,  integration of multiple types of genomic datasets for disease gene discovery, genotype-phenotype association analysis, *etc*.  
 
 
 
@@ -24,7 +24,7 @@ Selection of mutations is the driving force behind adaptive evolution. During th
 <img align="right" width="600" height="340" caption="temp" src="cancer_selection.jpg">
 
 
-We have recently developed a powerful statistical framework to study positive selection of mutations in cancer. 
+We have recently developed a powerful statistical framework to study positive selection of mutations in cancer ([Zhao S 2019](https://www.nature.com/articles/s41467-019-11284-9)). This framework allows us to integrate information from various sources to separate selection signals from complex mutational processes. We are interested in using this framework to identify driver mutations and study how these mutations lead to specific tumor properties. 
 
 ## Functional genomics of human diseases
 
