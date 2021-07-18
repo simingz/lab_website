@@ -1,10 +1,4 @@
 ---
-title: Open positions
-view: 4
-
-header:
-  caption: ""
-  image: ""
+# Files in this folder represent a Widget Page
+type: widget_page
 ---
-
-We are actively hiring!
