@@ -31,20 +31,12 @@ We have recently developed a powerful statistical framework to study positive se
 One major goal of disease genetics is to understand how genetic variations affect disease phenotypes. Many genetic variations have been identified to significantly associate with diseases, e.g. through genomic-wide associations avalysis, however the mechanisms remain illusive. With accumulating data providing functional annotations for the genome, such as ENCODE and GTEx projects, we are now able to analyze the associations between genetic variation and disease phenotype in more detail.
 <img align="right" width="520" height="400" caption="temp" src="functional_genomics.png">
 
-For example, in our recent paper ([Zhang S 2020](https://science.sciencemag.org/content/369/6503/561.abstract)), we integrate chromatin accessibility profiles with other omics data to prioritize schizophrenia associated genetic variations. We found a group of genetic variations, we called ASoC (allele specific open chromatin) variants, are highly enriched with disease variants, and they may potentially regulate gene expression by affecting the chromatin status of gene promotor regions.
+We will be collaborating with wet lab experimentalists to collect functional genomics data to illucidate disease mechanisms. For example, in our recent paper ([Zhang S 2020](https://science.sciencemag.org/content/369/6503/561.abstract)), we integrate chromatin accessibility profiles with other omics data to prioritize schizophrenia associated genetic variations. We found a group of genetic variations, we called ASoC (allele specific open chromatin) variants, are highly enriched with disease variants, and they may potentially regulate gene expression by affecting the chromatin status of gene promotor regions. 
 
 &nbsp;
 &nbsp;
 
 ## <span style="color:green"> *Statistical methods for GWAS* </span>
-asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
-asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
-asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
-asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
+Recent collection of genetic and phenotype data has become increasingly large. For instance, the UK bio This allows researchers to 
 
 <img align="right" width="350" height="220" caption="temp" src= "causal-diagram.jpg">
-
-asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
-asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
-asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd
-asdfjasldkjflasdjglskjdglkjsdlgjlsjg sdgjfs jgldkjglj sd

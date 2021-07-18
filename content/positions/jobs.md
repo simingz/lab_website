@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 
-![campus_image](college_campus.jpg)
+![campus_image](college_campus.jpeg)
 
 
 ## <span style="color:green"> *We are actively hiring* </span>
