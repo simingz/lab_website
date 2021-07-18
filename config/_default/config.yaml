@@ -5,7 +5,7 @@
 
 title: Zhao Lab@Dartmouth # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Siming Zhao's Lab' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

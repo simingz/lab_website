@@ -13,4 +13,7 @@ header:
   image: ""
 ---
 
+* [July 15th, 2020] **Our lab receives funding from the NIH COBRE grant**.
+
 * [July 1st, 2020] **Zhao Lab opens**.
+
