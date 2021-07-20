@@ -19,9 +19,9 @@ We seek highly motivated researchers to join our lab! Our lab offers a range of 
 
 ## Postdoc positions
 
-We are mainly a computational lab deveping computational methods and perform analysis on genomic data, thus postdocs are required to have a quantitative background. Programming skills are necessary. Ideally, the postdoc should have experience in working with genomics data. Wet lab experience is a plus but not required. Postdocs in our lab will have the opportunity to work on projects that are of interests to both the PI and themselves. I will fully support the postdoc's research projects and career development. Informal inquiries are welcome. Please send me an email (siming.zhao@dartmouth.edu).
+We are mainly a computational lab deveping computational methods and perform analysis on genomic data, thus postdocs are required to have a quantitative background. Programming skills are necessary. Ideally, the postdoc should have experience in working with genomics data. Wet lab experience is a plus but not required. Postdocs in our lab will have the opportunity to work on projects that are of interests to both the PI and themselves. I will fully support the postdoc's research projects and career development. We also offer a competitive salary. Informal inquiries are welcome. Please send me an email (siming.zhao@dartmouth.edu).
 
-See more details about the postdoc job positions [here]().
+See more details about the postdoc job positions [here](https://geiselmed.dartmouth.edu/bmds/2021/07/20/post-doctoral-scholar-position-in-the-department-of-biomedical-data-science-at-dartmouth/).
 
 ## For graduate students
 
