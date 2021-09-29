@@ -13,7 +13,9 @@ header:
   image: ""
 ---
 
-* [July 15th, 2020] **Our lab receives funding from the NIH COBRE grant. Please see our [project summary page](https://sites.dartmouth.edu/cqb/projects/siming-somatic-mutations/) for more information.**
+* [Sep 1st, 2021] ** Michael Meng, Jihyun Lee and Alisa Tvorun Dunn joined the lab as research assistants. Welcome! **
 
-* [July 1st, 2020] **Zhao Lab opens**.
+* [July 15th, 2021] **Our lab receives funding from the NIH COBRE grant. Please see our [project summary page](https://sites.dartmouth.edu/cqb/projects/siming-somatic-mutations/) for more information.**
+
+* [July 1st, 2021] **Zhao Lab opens**.
 
