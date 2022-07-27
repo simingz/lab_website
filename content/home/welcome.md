@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-We develop and use powerful computational and statistical methods to learn the genetics of human diseases, in particular cancer, from large-scale genomic data.
+We develop and use powerful computational and statistical methods to learn the genetics of human diseases,from large-scale genomic and multi-omics data.
