@@ -1,29 +1,20 @@
 ---
-# An instance of the People widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
-
-# This file represents a page section.
+widget: blank
 headless: true
 
-# Order that this section appears on the page.
-weight: 68
-
-title: Meet the Team
+# ... Put Your Section Options Here (title etc.) ...
+title: Meet The Team
 subtitle:
+weight: 10  # section position on page
 
-content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-  - Principal Investigators
-  - Researchers
-  - Grad Students
-  - Administration
-  - Visitors
-  - Alumni
 design:
-  show_interests: false
-  show_role: true
-  show_social: true
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 ---
+
+| Member | Date joined | Role | Description |
+|--------|-------------|------|-------------|
+| Siming |   ![](IMG_7382.jpg)          |      |             |
+| Liyang |             |      |             |
+| Jie    |             |      |             |
+|        |             |      |             |
