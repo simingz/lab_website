@@ -17,7 +17,7 @@ header:
 
 * [Sep 7th, 2022] **Hannah Stuart starts her rotation in the lab. She is from the QBS program. Welcome!**
 
-* [Sep 1st, 2022] Nick is awarded a senior fellowship for the collaborated work with Wang lab. See the story [here](https://www.dartmouthcollegefund.org/story/senior-fellow-nicholas-sugiarto-%E2%80%9923-mixes-humor-and-serious-research). Congratulations Nick!
+* [Sep 1st, 2022] **Nick is awarded a senior fellowship for the collaborated work with Wang lab. See the story [here](https://www.dartmouthcollegefund.org/story/senior-fellow-nicholas-sugiarto-%E2%80%9923-mixes-humor-and-serious-research). Congratulations Nick!**
 
 * [June 1st, 2022] **Liyang joins the lab for her thesis research. She is the first graduate student of the lab. So excited to have you on board!**
 
