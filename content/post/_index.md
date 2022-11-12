@@ -21,7 +21,7 @@ header:
 
 * [June 1st, 2022] **Liyang joins the lab for her thesis research. She is the first graduate student of the lab. So excited to have you on board!**
 
-* [May 1st, 2022] **We are awarded the American Cancer Society Institutional Grant from Dartmouth Cancer Center.**
+* [May 1st, 2022] **We are awarded the American Cancer Society Institutional Research Grant from the Dartmouth Cancer Center.**
 
 * [March 1st, 2022] **Liyang Yu from the QBS program starts her rotation. Welcome!**
 
