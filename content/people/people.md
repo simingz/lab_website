@@ -14,7 +14,7 @@ design:
 
 | Member | Date joined | Role | Description |
 |--------|-------------|------|-------------|
-| Siming |   ![](IMG_7382.jpg)          |      |             |
+| Siming |   <img src="jesses-2022.jpg"  width="200" height="300">          |      |             |
 | Liyang |             |      |             |
 | Jie    |             |      |             |
 |        |             |      |             |
