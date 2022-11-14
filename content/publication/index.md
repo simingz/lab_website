@@ -9,19 +9,20 @@ header:
 
 
 ## <span style="color:green"> *Preprints* </span>
-**Zhao, S**\*\# Crouse, W\*,Qian, S, Luo, K, Stephens, M\#, He, X\#. Adjusting for genetic confounders in transcriptome-wide association studies leads to reliable detection of causal genes. bioRxiv 2022.09.27.509700 (2022) doi:10.1101/2022.09.27.509700 \# co-coresponding author \* co-first author
+**Zhao, S**\*\# Crouse, W\*,Qian, S, Luo, K, Stephens, M\#, He, X\#. [Adjusting for genetic confounders in transcriptome-wide association studies leads to reliable detection of causal genes](https://www.biorxiv.org/content/10.1101/2022.09.27.509700v1). bioRxiv 2022.09.27.509700 (2022) doi:10.1101/2022.09.27.509700 
+ \# co-coresponding author \* co-first author
 
 ## <span style="color:green"> *2021* </span>
-Choi, J. et al. Integrated mutational landscape analysis of uterine leiomyosarcomas. Proc. Natl. Acad. Sci. U. S. A. 118, (2021)
+Choi, J. et al. [Integrated mutational landscape analysis of uterine leiomyosarcomas](https://www.pnas.org/doi/abs/10.1073/pnas.2025182118). Proc. Natl. Acad. Sci. U. S. A. 118, (2021)
 
 ## <span style="color:green"> *2020* </span>
 
-Zhang S\*, Zhang H\*, Zhou Y\*, Qiao M\*, **Zhao S**\* *et al*. [Allele-specific open chromatin in human iPSC neurons elucidates functional disease variants.](https://science.sciencemag.org/content/369/6503/561.abstract) *Science* 2020; 369: 561–565. \* co-first author
+Zhang S\*, Zhang H\*, Zhou Y\*, Qiao M\*, **Zhao S**\* *et al*. [Allele-specific open chromatin in human iPSC neurons elucidates functional disease variants.](https://science.sciencemag.org/content/369/6503/561.abstract) *Science* 2020; 369: 561–565. 
+\* co-first author
 
 ## <span style="color:green"> *2019* </span>
 
-**Zhao S**, Liu J, Nanga P *et al*. [Detailed modeling of positive selection improves detection of cancer driver genes.](https://www.nature.com/articles/s41467-019-11284-9) *Nature communications* 2019; 10: 1–13.
-13 
+**Zhao S**, Liu J, Nanga P *et al*. [Detailed modeling of positive selection improves detection of cancer driver genes.](https://www.nature.com/articles/s41467-019-11284-9) *Nature communications* 2019; 10: 1–13.13 
 
 Zammataro L, Lopez S, Bellone S *et al*. [Whole-exome sequencing of cervical carcinomas identifies activating erbb2 and pik3ca mutations as targets for combination therapy.](https://www.pnas.org/content/116/45/22730.short) *Proceedings of the National Academy of Sciences* 2019; 116: 22730–22736.
 14 
