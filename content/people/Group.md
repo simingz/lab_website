@@ -6,15 +6,15 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Siming Zhao's Lab"
+title: ""
 subtitle: ""
-hero_media: genes.jpg
+hero_media: jesses-2022.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 advanced:
   css_style:
   css_class:
 ---
 
-We develop and use powerful computational and statistical methods to learn the genetics of human diseases,from large-scale genomic and multi-omics data.
+
