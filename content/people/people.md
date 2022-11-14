@@ -20,10 +20,6 @@ design:
 |     <center><img src="Nick.jpeg" alt="Nick" width="400"/><center> <center>Nick Sugiarto<center>    |     9/2021    | Undergraduate Researcher (Joint with Xiaofeng Wang lab) | Nicholas Sugiarto is currently a undergraduate senior at Dartmouth College slated to graduate June of 2023. He joined the lab in September 2021 as an undergraduate research assistant, and is currently helping to facilitate the bioinformatic analysis of organoid data.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 
-### Rotation Students
-
-Hannah Stuart (2022 Fall, QBS program)
-
 
 
 
