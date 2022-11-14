@@ -65,9 +65,9 @@ user_groups:
 - Researchers
 ---
 
-Dr. Zhao is an assistant professor in the department of biomedical data science and the Norris Cotton Cancer Center at Dartmouth college. She completed her PhD from Yale University in Dr. [Richard Lifton](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/1139-richard-p-lifton/)'s lab (now in Rockefeller University). She received post-doctoral training at University of Chicago, under the guidance of Drs. [Matthew Stephens](https://stephenslab.uchicago.edu/) and [Xin He](http://xinhelab.org/). 
+Siming is an assistant professor in the department of biomedical data science and the Cancer Center at Dartmouth College. She completed her PhD from Yale University in Dr. [Richard Lifton](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/1139-richard-p-lifton/)'s lab (now in Rockefeller University). She received post-doctoral training at University of Chicago, under the guidance of Drs. [Matthew Stephens](https://stephenslab.uchicago.edu/) and [Xin He](http://xinhelab.org/). 
 
-Dr. Zhao has broad training in genetics, cancer biology, bioinformatics and statistical genetics.  In the past, she has developed computational methods to study the genetics of cancer and other complex diseases. She has also led the analysis of several cancer whole-exome sequencing projects. She is interested in the roles of genetic variations in cancer and computational methods to translate large-scale genomic data into disease mechanisms.
+Siming has broad training in genetics, cancer biology, bioinformatics and statistical genetics.  In the past, she has developed computational methods to study the genetics of cancer and other complex diseases. She has also led the analysis of several cancer whole-exome sequencing projects. She is interested in the roles of genetic variations in cancer and computational methods to translate large-scale genomic data into disease mechanisms.
 
 
 
