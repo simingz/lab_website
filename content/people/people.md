@@ -9,7 +9,7 @@ weight: 10  # section position on page
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: 1
+  columns: 2
 ---
 
 |                                              _Member_                                              | _Date joined_ |                          _Role_                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                               _Description_                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
