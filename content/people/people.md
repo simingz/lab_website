@@ -24,14 +24,14 @@ design:
 
 ### Rotation Students
 
-Hannah Stuart (2022 Fall, QBS program)
-
+Hannah Stuart (2022 Fall, QBS program), Andrew McCray (2023 Spring, MCB program).
 
 ### Past members
+
 Michael Meng (2021-2022), part-time research assistant
 Jihyun Lee (2021), part-time research assistant
 Alisa Tvorun Dunn(2021), part-time research assistant
- 
+
 
 
 

@@ -15,6 +15,10 @@ header:
   image: ""
 ---
 
+* [May 5th, 2023] **Liyang did a great job in passing her qualify exam. Congratulations, Liyang!**
+
+* [March 1st, 2023] **Andrew McCray from the MCB program starts his rotation in the lab. Welcome Andrew!**
+
 * [Oct 31st, 2022] **Jie presents his work on modeling selection of cancer driver genes at the ACS research day.**
 
 * [Sep 7th, 2022] **Hannah Stuart starts her rotation in the lab. She is from the QBS program. Welcome!**
