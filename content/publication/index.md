@@ -9,7 +9,7 @@ header:
 
 
 ## <span style="color:green"> *Preprints* </span>
-**Zhao, S**\*\# Crouse, W\*,Qian, S, Luo, K, Stephens, M\#, He, X\#. [Adjusting for genetic confounders in transcriptome-wide association studies leads to reliable detection of causal genes](https://www.biorxiv.org/content/10.1101/2022.09.27.509700v1). bioRxiv 2022.09.27.509700 (2022) doi:10.1101/2022.09.27.509700  
+**Zhao, S**\*\# Crouse, W\*,Qian, S, Luo, K, Stephens, M\#, He, X\#. [Adjusting for genetic confounders in transcriptome-wide association studies leads to reliable detection of causal genes](https://www.biorxiv.org/content/10.1101/2022.09.27.509700v1). bioRxiv 2022.09.27.509700 (2022) doi:10.1101/2022.09.27.509700  (Accepted at Nature Genetics)
  \# co-corresponding author \* co-first author
 
 ## <span style="color:green"> *2021* </span>
