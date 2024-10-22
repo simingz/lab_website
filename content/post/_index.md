@@ -15,6 +15,16 @@ header:
   image: ""
 ---
 
+* [Sep 25th, 2024] **Dr. Luke Deary joined the lab as a postdoc, he will continue our collaborated project which started when he was a graduate student in Dr. Xiaofeng Wang's lab. Welcome Luke!**
+
+* [August 1th, 2024] **We were awarded the MIRA grant from NIH NIGMS!**
+
+* [June 1th, 2024] **Qiaoxue joins the lab for her thesis work, welcome Qiaoxue!**
+
+* [April 1st, 2024] **We were awarded the [Dartmouth SYNERGY CORES pilot grant](https://synergy.dartmouth.edu/cores/)!**
+
+* [Jan 1th, 2024] **Liyang wins the T32 fellowship. Congratulations, Liyang!**
+
 * [May 5th, 2023] **Liyang did a great job in passing her qualify exam. Congratulations, Liyang!**
 
 * [March 1st, 2023] **Andrew McCray from the MCB program starts his rotation in the lab. Welcome Andrew!**
