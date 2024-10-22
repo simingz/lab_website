@@ -1,3 +1,9 @@
+# Zhao lab @Dartmouth website
+
+Netlify was used to deploy the website.
+
+Building should be automatic after the repo is updated. If not, need to go to netlify to check out why. If there is a permission error raised on netlify, try to unlink the repo and relink the repo from netlify. 
+
 # Wowchemy's Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
@@ -33,5 +39,9 @@ Please replace the demo images with your own.
 - [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
 - [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
 
-
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-research-group/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+
+
+
+
