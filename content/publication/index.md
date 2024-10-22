@@ -7,8 +7,8 @@ header:
   image: ""
 ---
 
+## <span style="color:green"> *2024*</span>
 
-## <span style="color:green"> *Preprints* </span>
 **Zhao, S**\*\# Crouse, W\*,Qian, S, Luo, K, Stephens, M\#, He, X\#.  [Adjusting for genetic confounders in transcriptome-wide association studies improves discovery of risk genes of complex traits.](https://www.nature.com/articles/s41588-023-01648-9) *Nat. Genet.* **56**, 336–347 (2024).  
  \# co-corresponding author \* co-first author
 
