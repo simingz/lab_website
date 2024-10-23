@@ -15,8 +15,6 @@ design:
   background:
     image:
       filename: genes.jpg
- 
-
 
 advanced:
   css_style:
