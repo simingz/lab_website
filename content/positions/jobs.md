@@ -25,9 +25,9 @@ See more details about the postdoc job positions [here](https://geiselmed.dartmo
 
 ## For graduate students
 
-Students in the [Quantitative Biology Program](https://geiselmed.dartmouth.edu/qbs/) are welcome to do rotations in our lab. Students are expected to work on genomics data and method development for genomics data. An interest in human genetics is higly valued. Please send me an email to discuss (siming.zhao@dartmouth.edu).
+Students in the [Quantitative Biological Sciences](https://geiselmed.dartmouth.edu/qbs/) and [Molecular Cell Biology](https://graduate.dartmouth.edu/mcb/) programs are welcome to do rotations in our lab. Students are expected to do computational work on genomics data, computational method development for genomics data, or wet lab experiments. An interest in human genetics is higly valued. Please send me an email to discuss (siming.zhao@dartmouth.edu).
 
 ## Research assistant positions
 Anyone who is interested in a research assistant position please contact me directly (siming.zhao@dartmouth.edu). 
 
-
+ 
