@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-We develop and use powerful computational and statistical methods to learn the genetics of human diseases,from large-scale genomic and multi-omics data. <img src="lab-word-cloud.png" alt="word cloud" width="400"/>
+We develop and use powerful computational and statistical methods to learn the genetics of human diseases,from large-scale genomic and multi-omics data. 
