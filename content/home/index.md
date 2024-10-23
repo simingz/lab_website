@@ -9,7 +9,7 @@ design:
   background:
     image:
       # Name of image in `assets/media/`.
-      filename: genes.jpg
+      filename: genes.jpeg
       # Apply image filters?
       filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
