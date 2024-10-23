@@ -14,7 +14,7 @@ design:
   columns: '2'
   background:
     image:
-      filename: genes.jpg
+      filename: lab-word-cloud.png
 
 advanced:
   css_style:
