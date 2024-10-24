@@ -23,7 +23,7 @@ design:
 
 
 
-### Rotation Students
+### Rotation students
 
 Hannah Stuart (2022 Fall, QBS program), Andrew McCray (2023 Spring, MCB program). Minghui Zhang (2023 fall, QBS program). Graham Shultz (2024 QBS program). 
 
