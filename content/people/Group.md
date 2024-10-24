@@ -18,11 +18,9 @@ advanced:
   css_class:
 ---
 
-```html
 <p align="center">
   <img alt="Light" src="jesses-2022.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="BBQ2024.jpg" width="45%">
 </p>
-```
 

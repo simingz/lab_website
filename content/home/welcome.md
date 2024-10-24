@@ -18,3 +18,5 @@ advanced:
 ---
 
 We develop and use powerful computational and statistical methods to learn the genetics of human diseases,from large-scale genomic and multi-omics data.
+
+![gene](genes.jpg)
