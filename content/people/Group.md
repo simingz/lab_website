@@ -18,5 +18,5 @@ advanced:
   css_class:
 ---
 
-<img align="left" alt="Light" src="jesses-2022.jpg" width="55%" hspace = "5%"><img align="left" alt="Dark" src="BBQ2024.jpg" width="55%">
+<img align="left" alt="Light" src="jesses-2022.jpg" width="48%"><img align="left" alt="Dark" src="BBQ2024.jpg" width="48%">
 
