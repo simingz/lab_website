@@ -18,4 +18,9 @@ advanced:
   css_class:
 ---
 
-![jesses-2022](jesses-2022.jpg){: style="height:53px"}![BBQ-2024](BBQ2024.jpg){: style="height:53px"}
+```html
+<p float="middle">
+  <img src="jesses-2022.jpg" width="800" />
+  <img src="BBQ2024.jpg" width="800" /> 
+</p>
+```
