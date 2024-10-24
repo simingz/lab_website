@@ -18,9 +18,5 @@ advanced:
   css_class:
 ---
 
-<p align="center">
-  <img alt="Light" src="jesses-2022.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="BBQ2024.jpg" width="45%">
-</p>
+<img align="left" alt="Light" src="jesses-2022.jpg" width="45%"><img align="left" alt="Dark" src="BBQ2024.jpg" width="45%">
 
