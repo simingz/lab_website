@@ -18,4 +18,4 @@ advanced:
   css_class:
 ---
 
-![jesses-2022](jesses-2022.jpg)![BBQ-2024](BBQ2024.jpg)
+![jesses-2022](jesses-2022.jpg){: style="height:53px"}![BBQ-2024](BBQ2024.jpg){: style="height:53px"}
