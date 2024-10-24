@@ -18,9 +18,5 @@ advanced:
   css_class:
 ---
 
-```html
-<p float="middle">
-  <img src="jesses-2022.jpg" width="800" />
-  <img src="BBQ2024.jpg" width="800" /> 
-</p>
-```
+<img src="jesses-2022.jpg" width="425"/> <img src="BBQ2024.jpg" width="425"/> 
+
