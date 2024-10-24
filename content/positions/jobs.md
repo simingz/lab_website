@@ -13,8 +13,8 @@ design:
 
 ![campus_image](college_campus.jpeg)
 
-
 ## <span style="color:green"> *We are actively hiring!* </span>
+
 We seek highly motivated researchers to join our lab! Our lab offers a range of topics in cancer genomics and statisical genetics to work on. Thoughout my career, I am extremely forntunate and grateful for having incredible mentors along the way. Their mentorship has great impacts on me and I will try to offer what I have learned from them to my future trainees. Positions for students, postdocs and research assistants are available. Please see details below.
 
 ## Postdoc positions
