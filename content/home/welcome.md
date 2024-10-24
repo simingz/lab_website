@@ -12,9 +12,6 @@ hero_media: lab-word-cloud.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-advanced:
-  css_style:
-  css_class:
 ---
 
 We develop and use powerful computational and statistical methods to learn the genetics of human diseases,from large-scale genomic and multi-omics data.
