@@ -15,6 +15,8 @@ header:
   image: ""
 ---
 
+* [Mar 11, 2025] **Graham Shultz joined the lab for his thesis work, he is jointly advised by [Dr. Saeed Hassanpour](https://www.hassanpourlab.com/). Welcome Graham!**
+
 * [Sep 25th, 2024] **Dr. Luke Deary joined the lab as a postdoc, he will continue our collaborated project which started when he was a graduate student in Dr. Xiaofeng Wang's lab. Welcome Luke!**
 
 * [August 1th, 2024] **We were awarded the MIRA grant from NIH NIGMS!**
@@ -23,7 +25,7 @@ header:
 
 * [April 1st, 2024] **We were awarded the [Dartmouth SYNERGY CORES pilot grant](https://synergy.dartmouth.edu/cores/)!**
 
-* [Jan 1th, 2024] **Liyang wins the T32 fellowship. Congratulations, Liyang!**
+* [Jan 1th, 2024] **Liyang was awarded the T32 fellowship. Congratulations, Liyang!**
 
 * [May 5th, 2023] **Liyang did a great job in passing her qualify exam. Congratulations, Liyang!**
 

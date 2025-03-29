@@ -20,6 +20,7 @@ design:
 | <center><img src="Qiaoxue.jpg" alt="Liyang" width="700"/><center> <center>Qiaoxue Liu, M.S.<center> |    2024/6     |  Graduate Student  | Qiaoxue Liu is a PhD student in the Quantitative Biomedical Sciences (QBS) program at Dartmouth College and she joined the lab in June 2024. Prior to her PhD studies, she earned an MS in Biostatistics from the University of Michigan and completed dual BS degrees in Statistics and Applied and Computational Math Sciences from the University of Washington. Her research interests focus on developing statistical tools for GWAS data. |
 | <center><img src="qirui.jpg" alt="Qirui.jpg" width="600"/><center> <center> Qirui Zhang.<center> |    2024/7     | Research assistant | Qirui Zhang obtained his BS in Pharmaceutical Sciences from Zhejiang University, China. He is currently a Master student in Biostatistics at New York University and joined the lab in July 2024. He is interested in using deep learning methods to analyze genomic data. |
 | <center><img src="Luke.png" alt="Luke" width="800"/><center> <center> Luke Deary, Ph.D.<center> |    2024/9     |      Postdoc       | Dr. Luke Deary graduated from the Dartmouth MCB program. He did his thesis work in Dr. Xiaofeng Wang's lab working on the role of ARID1A using the organoid system. He is interested in understanding disease mechanisms using human genetics data. Currently, he leverages functional genomic and perturbation experiments to study disease genes. |
+| <center><img src="Graham.jpeg" alt="Graham" width="800"/><center> <center> Graham<center> |    2025/3     |  Graduate Student  | Graham Schultz is a current QBS PhD student from Denver, Colorado who joined the lab in 2025. Prior to joining the lab, Graham obtained his BS in Biology from Wake Forest University and worked for a health-tech company in San Francisco. He is interested in deep learning applications in genomics and developing machine learning models for early detection of disease. Graham is jointly supervised by Dr. Saeed Hassanpour. |
 
 
 
@@ -35,7 +36,9 @@ Hannah Stuart (2022 Fall, QBS program), Andrew McCray (2023 Spring, MCB program)
 | <center><img src="Nick.jpeg" alt="Nick" width="400"/><center> <center>Nick Sugiarto<center> | 9/2021-6/2023 | Undergraduate Researcher (Joint with Xiaofeng Wang lab). Nick worked on bioinformatic analysis of functional genomics data. He is currently a research associate at Harvard. |
 
 Michael Meng (2021-2022), QBS master student, part-time research assistant
+
 Jihyun Lee (2021), QBS master student, part-time research assistant
+
 Alisa Tvorun Dunn(2021),QBS master student, part-time research assistant
 
 
